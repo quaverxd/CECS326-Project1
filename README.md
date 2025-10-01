@@ -12,4 +12,4 @@ HOW TO RUN
 3) Execute using python3 filecopy.py [originalfile].txt [copyfile].txt
 4) There is now a copy of the original file
 
--> Use python with Linux to execute
+-> Make sure python3 installed with Linux to execute
